@@ -1,0 +1,15 @@
+.header nav a{
+    margin-right: 20px;
+    color: lightslategray;
+    padding: 5px;
+    text-decoration: none;
+}
+.header {
+    margin-top: 10px;
+}
+
+.header nav a:hover{
+    color: lightcyan;
+    background-color: lightslategray;
+    border-radius: 5px;
+}
